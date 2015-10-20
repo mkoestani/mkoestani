@@ -1,1 +1,1 @@
-cout<< "michelle you are awesome.com"
+cout<< "Go Beach!"
